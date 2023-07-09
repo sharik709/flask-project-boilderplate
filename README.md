@@ -75,7 +75,7 @@ The `flask_app` directory is the root directory of the Flask application. It con
 To run the Flask application, follow these steps:
 
 1. Set up a Python 3 programming environment.
-2. Clone this repository: `git clone https://github.com/your-username/your-repository.git`
+2. Clone this repository: `git clone https://github.com/sharik709/flask-project-boilderplate.git`
 3. Navigate to the `flask_app` directory: `cd flask_app`
 4. Activate your virtual environment.
 5. Install the required packages: `pip install -r requirements.txt`
