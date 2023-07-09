@@ -1,0 +1,7 @@
+# this is list of all items that should be ignored by git
+.idea
+.vscode
+.env
+.venv
+__pycache__
+.DS_Store
